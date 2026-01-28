@@ -350,7 +350,7 @@
                 }
             });
         });
-    }
+    } 
 
     if ($(".video-popup").length) {
         $(".video-popup").magnificPopup({

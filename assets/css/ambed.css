@@ -5195,7 +5195,7 @@ ul {
 .site-footer__bottom {
     position: relative;
     display: block;
-    background-color: #2f2a27;
+    background-color: #000000;
 }
 
 .site-footer__bottom-inner {
@@ -5207,7 +5207,7 @@ ul {
 
 .site-footer__bottom-text {
     font-size: 15px;
-    color: #c2b9b4;
+    color: #f0efee;
 }
 
 .site-footer__bottom-text a {
